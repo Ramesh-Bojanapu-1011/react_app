@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Quick Overview
 
  npx create-react-app my-app
- 
+
  cd my-app
- 
+
  npm start
 
 ## Available Scripts
